@@ -1,5 +1,5 @@
 # telegramBot
-bot for uploading some content to google document
+Бот для загрузки контента в гугл документы
 
 ---
 
