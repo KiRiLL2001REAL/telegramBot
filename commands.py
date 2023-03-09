@@ -3,6 +3,4 @@ HELP = '/help'
 
 
 def checkCommand(command, checked):
-    if command == checked:
-        return True
-    return False
+    return command == checked
